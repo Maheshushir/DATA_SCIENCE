@@ -1,4 +1,4 @@
-Welcome to Mahesh Ushir's Data Science Repository, a comprehensive collection of my data science projects, analyses, and tools that leverage advanced techniques to derive valuable insights from complex datasets.
+Welcome to my Data Science Repository, a comprehensive collection of my data science projects, analyses, and tools that leverage advanced techniques to derive valuable insights from complex datasets.
 
 Key Features:
 
